@@ -1,0 +1,24 @@
+{
+  "name": "web-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soboo/WEB-BE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soboo/WEB-BE/issues"
+  },
+  "homepage": "https://github.com/Soboo/WEB-BE#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
